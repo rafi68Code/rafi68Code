@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Rafi
+- 👀 I’m interested in Full-Stack Web Development
+- 🌱 I’m currently learning React and Express js
+- 💞️ I’m looking to collaborate on open source project
+- 📫 How to reach me rafisiddique68@gmail.com
+- 😄 Pronouns: He
